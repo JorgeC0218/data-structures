@@ -21,7 +21,6 @@ var Stack = function() {
     return data;
     }
   };
-
   someInstance.size = function() {
     return count;
     // input is object
